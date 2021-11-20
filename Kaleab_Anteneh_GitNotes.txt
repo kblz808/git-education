@@ -1,0 +1,9 @@
+- Git is one of the most popular version system and helps us manage our projects files
+
+- Git keeps track of every change we make to our project
+- Git makes collaboration very easy and it allows you to be more productive when working on a team
+- Git makes it easy to work on multiple features at once
+
+- Git is an industry standard and is considered a must know skill in the developer world
+
+- The best way to learn Git and version control is to see Git in action and get our hands dirty.
